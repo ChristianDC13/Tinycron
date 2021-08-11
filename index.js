@@ -1,4 +1,4 @@
-const locales = require('./locales.json');
+const locales = require('./src/locales.json');
 
 module.exports = class Tinytime {
   constructor(date, lang = 'en') {
