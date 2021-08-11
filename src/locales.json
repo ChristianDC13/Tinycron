@@ -1,0 +1,30 @@
+{
+  "es": {
+    "seconds": "Hace unos segundos",
+    "oneMinute": "Hace un minuto",
+    "minutes": "Hace $m minutos",
+    "oneHour": "Hace una hora",
+    "hours": "Hace $h horas",
+    "oneDay": "Ayer",
+    "days": "Hace $d días",
+    "lastWeek": "La semana pasada",
+    "oneMonth": "Hace un mes",
+    "months": "Hace $M meses",
+    "oneYear": "Hace un año",
+    "years": "Hace $y años"
+  },
+  "en": {
+    "seconds": "Some seconds ago",
+    "oneMinute": "A minute ago",
+    "minutes": "$m minutes ago",
+    "oneHour": "An hour ago",
+    "hours": "$h hours ago",
+    "oneDay": "Yesterday",
+    "days": "$d days ago",
+    "lastWeek": "Last week",
+    "oneMonth": "A month ago",
+    "months": "$M months ago",
+    "oneYear": "A year ago",
+    "years": "$y years ago"
+  }
+}

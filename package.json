@@ -1,0 +1,31 @@
+{
+  "name": "tinycron",
+  "version": "0.0.1",
+  "description": "The low-weight library to handle dates in a human-readable way",
+  "main": "src/tinycron.js",
+  "scripts": {
+    "start": "node src/tinycron.js",
+    "dev": "nodemon src/tinycron.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "tiny",
+    "cron",
+    "time",
+    "semantic",
+    "lightweight",
+    "low",
+    "light",
+    "weight",
+    "text",
+    "language",
+    "parser",
+    "optimized"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.6",
+    "nodemon": "^2.0.12"
+  }
+}
