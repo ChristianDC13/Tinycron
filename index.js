@@ -1,6 +1,6 @@
 const locales = require('./src/locales.json');
 
-module.exports = class Tinytime {
+module.exports = class Tinycron {
   constructor(date, lang = 'en') {
     this.date = date;
     this.locale = locales[lang];
