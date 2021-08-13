@@ -62,6 +62,6 @@ module.exports = class Tinycron {
       return this.locale.seconds.replace('$s', Math.floor(seconds));
     }
 
-    return date.toLocaleString();
+    return date.toLocaleDateString();
   }
 };
