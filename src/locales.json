@@ -26,5 +26,19 @@
     "months": "$M months ago",
     "oneYear": "A year ago",
     "years": "$y years ago"
+  },
+  "pt-br": {
+    "seconds": "Há alguns segundos",
+    "oneMinute": "Há um minuto",
+    "minutes": "$m minutos atrás",
+    "oneHour": "Há uma hora",
+    "hours": "$h horas atrás",
+    "oneDay": "Ontem",
+    "days": "$d dias atrás",
+    "lastWeek": "Semana passada",
+    "oneMonth": "Há um mês",
+    "months": "$M meses atrás",
+    "oneYear": "Há um ano",
+    "years": "$y anos atrás"
   }
 }
